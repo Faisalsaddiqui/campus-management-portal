@@ -46,5 +46,3 @@ Example: Pages/Student contains all pages associated with the student portal.
 Shared components are stored in the shared directory for easy reuse across different parts of the application.
 ### Contributing:
 Contributions are welcome! If you'd like to improve or extend the functionality of this project, please submit a pull request. Ensure that your code follows best practices and is well-documented. Any shared components will be in shared directory.
-### License:
-This project is licensed under the MIT License - see the LICENSE file for details.
