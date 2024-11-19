@@ -38,7 +38,7 @@ Student Portal:
 Access class schedules and subject lists.
 View attendance records and grades.
 
-Role-based Access:
+**Role-based Access:**
 Admins have full access to all management features.
 Students have restricted access, only able to view their own information.
 ### Technologies Used:
