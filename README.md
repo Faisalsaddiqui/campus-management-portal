@@ -2,11 +2,25 @@
 The Campus Management System is a web application built with Laravel, Vue, PHP, and Blade, designed to simplify and manage campus operations. This system provides separate portals for admins and students, allowing administrators to manage subjects, attendance, and other academic details, while students can view their own progress and access limited campus information.
 * WORK IN PROGRESS *
 Installation instructions
+```
 npm install
-composer install 
+```
+
+```
+composer install
+```
+
+```
 npm run dev
+```
+
+```
 php artisan migrate
+```
+
+```
 php artisan db:seed
+```
 This will generate a User model with admin and super admin roles.
 ### Super Admin account Credentials:
 Email: admin@mail.com
