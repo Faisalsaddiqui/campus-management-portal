@@ -14,7 +14,7 @@ Password: password
 Conventions
 Every directory for Pages/Controller/Components correspond with a role. example: Pages/Student contains all pages associated with students.
 
-## Features
+### Features:
 ### Admin Portal:
 Manage subjects and course content.
 Track and update student attendance records.
