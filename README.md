@@ -42,13 +42,13 @@ View attendance records and grades.
 Admins have full access to all management features.
 Students have restricted access, only able to view their own information.
 ### Technologies Used:
-Backend: Laravel (PHP)
+**Backend: Laravel (PHP)**
 
-Frontend: Vue.js, Blade
+**Frontend: Vue.js, Blade**
 
-Database: MySQL (or other Laravel-supported databases)
+**Database: MySQL (or other Laravel-supported databases)**
 
-Styling: CSS, Bootstrap
+**Styling: CSS, Bootstrap**
 Usage
 ### Admin Tasks:
 Log in as an admin or super admin using the provided credentials.
