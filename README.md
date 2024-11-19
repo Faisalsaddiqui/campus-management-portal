@@ -27,8 +27,11 @@ Admins have full access to all management features.
 Students have restricted access, only able to view their own information.
 ### Technologies Used:
 Backend: Laravel (PHP)
+
 Frontend: Vue.js, Blade
+
 Database: MySQL (or other Laravel-supported databases)
+
 Styling: CSS, Bootstrap
 Usage
 ### Admin Tasks:
